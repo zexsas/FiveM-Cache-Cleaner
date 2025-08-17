@@ -1,5 +1,5 @@
 @echo off
-title FiveM Cache Cleaner Tool - feds.lol/qPro
+title FiveM Cache Cleaner Tool - zexsa
 color e
 
 echo       ______           __         ________                         
@@ -59,7 +59,7 @@ echo       ______           __         ________
 echo      / ____/___ ______/ /_  ___  / ____/ /__  ____ _____  ___  _____
 echo     / /   / __ `/ ___/ __ \/ _ \/ /   / / _ \/ __ `/ __ \/ _ \/ ___/
 echo    / /___/ /_/ / /__/ / / /  __/ /___/ /  __/ /_/ / / / /  __/ /  
-echo    \____/\__,_/\___/_/ /_/\___/\____/_/\___/\__,_/_/ /_/\___/_/
+echo    \____/\_
 echo                        Developer: qPro#0001
 echo.
 echo.
